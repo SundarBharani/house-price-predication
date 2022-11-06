@@ -3,5 +3,9 @@ sklearn
 pandas
 numpy
 matplotlib
+<<<<<<< HEAD
 gunicorn
 seaborn
+=======
+
+>>>>>>> ddf6321a51c3786b4430833962e090fe293db793
